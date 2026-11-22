@@ -1,0 +1,11 @@
+{
+  "Market": [
+    "hello": [
+      "name": "Hello Plugin",
+      "version":"1.0.0",
+      "author":"PCLPluginsManager",
+      "description":"Sample plugin that writes hello.log.",
+      "url": ""
+    ]
+  ]
+}
